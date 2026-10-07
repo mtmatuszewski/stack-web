@@ -65,7 +65,7 @@ These talks discussed technical developments and new features of STACK.
 
 These talks provided further detail on how STACK can be used for non English speaking students.
 
-Conference proceedings are currently being edited. Videos of recorded sessions have been distributed to participants. Some speakers have given permission for videos of their talks to be made public. These are currently being edited.
+Conference proceedings are available on [Zenodo](https://www.maths.dur.ac.uk/STACK25). Videos of recorded sessions have been distributed to participants.
 
 ## Workshops
 
